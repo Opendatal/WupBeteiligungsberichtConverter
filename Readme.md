@@ -1,5 +1,11 @@
 # Beteiligungsdaten Wuppertal 2018 Datenaufbereitung
 
+## F ups
+
+- Mehrere bilanzen auf einer Seite (Lokalfunk)
+- Buchungskonten unterschiedlich benannt
+- Jahreszahlen in unterschiedlichen formaten
+- Buchungskontennummen währen echt nice gewesen!
 
 ## Sourcen
 
