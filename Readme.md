@@ -2,10 +2,10 @@
 
 ## F ups
 
-- Mehrere bilanzen auf einer Seite (Lokalfunk)
-- Buchungskonten unterschiedlich benannt
-- Jahreszahlen in unterschiedlichen formaten
-- Buchungskontennummen währen echt nice gewesen!
+- Mehrere Bilanzen auf einer Seite (Lokalfunk)
+- Buchungskonten unterschiedlich benannt!
+- Jahreszahlen in unterschiedlichen Formaten!
+- Buchungskontennummern wären wirklich nice gewesen!
 
 ## The json file
 
